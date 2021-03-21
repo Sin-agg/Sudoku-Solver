@@ -41,7 +41,7 @@ class Grid():
     verify():
         verifies if a given change is permitted.
 
-    NOTE
+    NOTES
     ----
     This script can work:
         - by it's own (just un-comment the last bit).
